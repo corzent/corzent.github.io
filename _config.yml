@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Daniyar Ishenov"
+title                    : "Daniiar Ishenov"
 title_separator          : "-"
-name                     : &name "Daniyar"
-description              : &description "Bachelor’s student at Kyrgyz State Technical University."
+name                     : &name "Daniiar"
+description              : &description "Master’s graduate in Machine Learning and Data Science at Kyrgyz State Technical University."
 url                      : https://corzent.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "corzent/corzent.github.io"
@@ -22,9 +22,9 @@ repository               : "corzent/corzent.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Daniyar Ishenov"
+  name             : "Daniiar Ishenov"
   pronouns         : # example: "she/her"  
-  bio              : "Bachelor’s student at Kyrgyz State Technical University."
+  bio              : "Master’s graduate in Machine Learning and Data Science at Kyrgyz State Technical University."
   location         : "Kyrgyzstan"
   # employer         : "Red Brick University"
   uri              : # URL

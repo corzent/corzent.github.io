@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I am a Bachelor's student in Machine Learning and Data Science at Kyrgyz State Technical University.
+Hey, I hold a Master's degree in Machine Learning and Data Science from Kyrgyz State Technical University.
